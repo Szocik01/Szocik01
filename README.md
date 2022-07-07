@@ -12,7 +12,7 @@ HTML, CSS, CSS Modules, JavaScript, React, React Router v5 and v6, React Redux, 
 ## ⚡️Finished projects
 <p>Fiszkando - app for students to help them study for their exams. (App currently has server side problems so logging in and further usage is impossible now. Our backend developers are trying to fix those problems.)</p><br/>
 <p>Gecho (only temporary name) - static app (no backend) created for a friend to one day help him promote his business and products.</p><br/>
-<p>Zadanie-HexOcean (name for previous recruitment process) - a very simple form application, created with help of redux-form. It also has simple example of sending data to server thanks to REST API. It was meant as a recruitment task, but then I thought that since I've done it already I can count this form as one of my simple projects. </p>
+<p>Food_ordering_form  - a very simple form application, created with help of redux-form. It also has simple example of sending data to server thanks to REST API.</p>
 
 ## My current activities
 👩‍💻 I'm currently working on adding backend and dynamic content to "strona z rybami" app.
