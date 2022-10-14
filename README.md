@@ -7,7 +7,7 @@
 I am a student of second year at Uniwersytet Pedagogiczny im. KEN in Krakow. I am involved in frontend development for over a year. In private I am interested in good cinema, homebrewing, gaming, history of whisky how it is created, economics and politics. I am a quick learner so I will eliminate any deficiencies in my knowledge that may occur during work. I am good at solving problems and logical thinking. My English level is between B2+ and C1. 
 
 ## 🛠 Skills
-HTML, CSS, CSS Modules, JavaScript, React, React Router v5 and v6, React Redux, React Redux Toolkit, REST API, MySQL, Git, podstawy Node.js i Express.js, podstawy Material UI.
+HTML, CSS, CSS Modules, JavaScript, React, React Router v5 and v6, React Redux, React Redux Toolkit, REST API, MySQL, Git, basics of Node.js i Express.js, basics of Material UI.
 
 ## ⚡️Finished projects
 <p>Fiszkando - app for students to help them study for their exams. (App currently has server side problems so logging in and further usage is impossible now. Our backend developers are trying to fix those problems.)</p><br/>
