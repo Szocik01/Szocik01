@@ -4,20 +4,20 @@
 
 
 ## 🚀 About Me
-I am a student of second year at Uniwersytet Pedagogiczny im. KEN in Krakow. I am involved in frontend development for over a year. In private I am interested in good cinema, homebrewing, gaming, history of whisky how it is created, economics and politics. I am a quick learner so I will eliminate any deficiencies in my knowledge that may occur during work. I am good at solving problems and logical thinking. My English level is between B2+ and C1. 
+I am a student of second year at Uniwersytet Pedagogiczny im. KEN in Krakow. I am involved in frontend development for over a year. In private I am interested in good cinema, homebrewing, gaming, history of whisky and how it is created, economics and politics. I am a quick learner so I will eliminate any deficiencies in my knowledge that may occur during work. I am good at solving problems and logical thinking. My English level is between B2+ and C1. 
 
 ## 🛠 Skills
 HTML, CSS, CSS Modules, JavaScript, React, React Router v5 and v6, React Redux, React Redux Toolkit, REST API, MySQL, Git, basics of Node.js i Express.js, basics of Material UI.
 
 ## ⚡️Finished projects
 <p>Fiszkando - app for students to help them study for their exams. (App currently has server side problems so logging in and further usage is impossible now. Our backend developers are trying to fix those problems.)</p><br/>
-<p>Gecho (only temporary name) - static app (no backend, currently developed to be dynamic and connect to RestAPI) created for a friend to one day help him promote his business and products.</p><br/>
-<p>Food_ordering_form  - a very simple form application, created with help of redux-form. It also has simple example of sending data to server thanks to REST API.</p>
+<p>Gecho (only temporary name) - dynamic (frontend and backend) app created for a friend to one day help him promote his business and products.</p><br/>
+<p>Food_ordering_form  - a very simple form application, created with help of redux-form. It has simple example of sending data to server thanks to REST API.</p>
 
 ## My current activities
-👩‍💻 I'm currently working on adding backend and dynamic content to "strona z rybami" app.
+👩‍💻 I'm currently working on creating a new website for my friend to promote her projects.
 
-🧠 I'm currently learning MaterialUI and SCSS preprocessor.
+🧠 I'm currently learning TypeScript and Vue.js.
 
 ## 📫Contact
 <p>Phone number: 534067244</p>
